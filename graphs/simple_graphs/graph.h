@@ -15,7 +15,7 @@ class graph {
 	
 	//Just for fun, an awful way to do it.
 	bool** adj_matrix;
-	size_t size;
+	std::size_t size;
 	
 	public:
 	
